@@ -1,0 +1,21 @@
+.text{
+    font-size: x-large;
+    margin-right:50px;
+}
+.image{
+    background-image: url(my_profile_photo.jpg);
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+.button{
+    width: 120px;
+}
+.links{
+    text-align: center;
+}
+.section-home{
+    background-image: url(background_1.gif);
+    background-size: cover;
+}
