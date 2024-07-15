@@ -11,7 +11,7 @@ Contact: How to get in touch with me (email, LinkedIn, etc.).
 
 Installation
 Clone this repository: git clone https://github.com/Kanna-Ruthwik/New-Portfolio.git
-Open index.html in your browser to view the website locally.
+Open portfolio.html in your browser to view the website locally.
 
 Check Out My Other Projects
 Feel free to explore my other projects inside My Portfolio Website
