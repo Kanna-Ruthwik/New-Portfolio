@@ -1,7 +1,8 @@
 My-Portfolio Website
 
 Description
-This is my personal portfolio website, showcasing my projects, and accomplishments. It’s built using HTML, CSS, and Bootstrap. The website is fully responsive, ensuring a pleasant user experience across different devices.
+This is my personal portfolio website, showcasing my projects, and accomplishments. It’s built using HTML, CSS, and Bootstrap. 
+The website is fully responsive, ensuring a pleasant user experience across different devices.
 
 Features
 About Me: Brief introduction about who I am and what I do.
